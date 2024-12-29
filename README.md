@@ -1,4 +1,4 @@
-```markdown
+
 # Encrypted SSH Private Key
 
 This repository contains an encrypted SSH private key. Below are the steps to create the encrypted key and how to decrypt it.
